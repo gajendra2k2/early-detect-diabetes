@@ -1,7 +1,8 @@
 ### Project Title
-Diabetes Risk Classification with KNN
+Diabetes Risk Classification
 
 **Author**
+
 Gajendra Babu Thokala
 
 #### Executive summary
