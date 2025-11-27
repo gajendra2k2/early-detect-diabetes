@@ -39,4 +39,4 @@ Can we classify whether an individual has diabetes using k-nearest neighbors on 
 - [EDA + baseline KNN notebook](notebooks/eda_knn_baseline.ipynb)
 
 ##### Contact and Further Information
-Questions or feedback: gajendra2k2@gmail.com
+Questions or feedback: Email to gajendra2k2@gmail.com
