@@ -2,7 +2,6 @@
 Diabetes Risk Classification
 
 **Author**
-
 Gajendra Babu Thokala
 
 #### Executive summary

@@ -1,5 +1,7 @@
 # 🩺 Diabetes Risk Classification with KNN  
 
+Refer to README.md for latest project details. 
+
 ## 📌 Problem Statement  
 Diabetes is a major global health concern, and early detection reduces complications and costs. This project asks:  
 
